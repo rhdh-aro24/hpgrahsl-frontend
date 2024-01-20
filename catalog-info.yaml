@@ -29,7 +29,7 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: "user:default/ryanj"
+  owner: "user:default/hpgrahsl"
   system: workshop-system-hpgrahsl
   consumesApis:
     - gateway-api-hpgrahsl
@@ -45,4 +45,4 @@ metadata:
     - workshop
     - rh-summit
 spec:
-  owner: "user:default/ryanj"
+  owner: "user:default/hpgrahsl"
